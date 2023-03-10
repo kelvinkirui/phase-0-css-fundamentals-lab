@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+img{
+vertical-align: middle;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+background-color: grey;
+}
+p.featured-property {
+  text-align: center;
+  color: red;
+}
